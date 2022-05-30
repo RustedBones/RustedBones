@@ -1,8 +1,8 @@
 ### Hi there! I'm Michel 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dino_dark.gif">
-  <img align="right" src="assets/dino.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RustedBones/RustedBones/master/assets/dino_dark.gif">
+  <img align="right" src="https://raw.githubusercontent.com/RustedBones/RustedBones/master/assets/dino.gif">
 </picture>
 
 I'm a 🇪🇺 software developer
