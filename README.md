@@ -1,6 +1,9 @@
 ### Hi there! I'm Michel 👋
 
-<img align="right" src="assets/dino.gif">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dino_dark.gif">
+  <img align="right" src="assets/dino.gif">
+</picture>
 
 I'm a 🇪🇺 software developer
 
