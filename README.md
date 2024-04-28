@@ -6,7 +6,7 @@
 </picture>
 
 I'm a passionate developer with a wide range of interests, from bit-level protocol implementation to high-level system design.
-I love using functional programming to write expressive code.
-For that, my go-to programming language is Scala.
 
-I'm also invested in the open-source community, trying to contribute whenever I can.
+I love using modern technologies, write expressive code and solve hairy problems.
+
+Open-source is deeply meaningful to me, and I'm committed to giving back to the community whenever possible.
